@@ -1,36 +1,36 @@
 const commentarios = [{
     "filme": "Questão de Tempo", "comenatarios": [{
-        "usuario": "Kaio",
+        "usuario": "ivan",
         "comentario": "Top demais! Chorei muito."
     },
     {
-        "usuario": "Kaio",
+        "usuario": "ivan",
         "comentario": "Top demais! Chorei muito."
     },
     {
-        "usuario": "Kaio",
-        "comentario": "Nota 100000!!!!"
+        "usuario": "ivan",
+        "comentario": "muito legal"
     }
     ]
 },
 {
     "filme": "A Vida Secreta de Walter Mitty", "comenatarios": [{
-        "usuario": "Kaio",
+        "usuario": "ivan",
         "comentario": "Muito bom, gostei demais!"
     },
     {
-        "usuario": "Kaio",
+        "usuario": "ivan",
         "comentario": "Muito bom, gostei muito!"
     }
     ]
 },
 {
     "filme": "Senhor dos Anéis: A Sociedade do Anel", "comenatarios": [{
-        "usuario": "Kaio",
+        "usuario": "ivan",
         "comentario": "Muito bom, gostei demais!"
     },
     {
-        "usuario": "Kaio",
+        "usuario": "ivan",
         "comentario": "Muito bom, gostei muito!"
     }
     ]
